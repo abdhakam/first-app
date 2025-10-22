@@ -2,3 +2,5 @@ daftar penjualan
 - beras
 - rokok
 - minyak
+- gula
+- jajan
