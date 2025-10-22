@@ -1,0 +1,4 @@
+daftar penjualan
+- beras
+- rokok
+- minyak
