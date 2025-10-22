@@ -1,2 +1,4 @@
 bab-1
 ini adalah makalah bab 1 
+Bab 2
+bab 2 ini berisi tentang dasar masalah untuk makalah ini
